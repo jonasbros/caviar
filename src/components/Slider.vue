@@ -10,6 +10,7 @@
             <!--  -->
             <div class="carousel-inner">
                 <div class="carousel-item active">
+                    <!-- ssdsd -->
                     <img class="d-block w-100"  src="./../assets/1.jpg" alt="First slide"/>
                     <h2>Caviar Restaurant</h2>
                     <p>New summer menus available from 12th Sept.</p>
