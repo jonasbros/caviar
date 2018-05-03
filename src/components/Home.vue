@@ -14,14 +14,14 @@
             <button type="button" class="btn btn-outline-dark mb-5">Find out more</button>
         </div>
         <div class="img-part col-lg-6 clearfix">
-            <img class="col-lg-6 mb-3" src="./../assets/s1-1.jpg">
-            <img class="col-lg-6 mb-5" src="./../assets/s1-2.jpg">
+            <img class="col-lg-6 mb-3" src="https://images.pexels.com/photos/262918/pexels-photo-262918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
+            <img class="col-lg-6 mb-5" src="https://images.pexels.com/photos/5317/food-salad-restaurant-person.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
         </div>       
       </section>
 
       <section class="s2 row text-left">
           <div class="img-part col-lg-6 px-5">
-              <img src="../assets/s2-2.jpeg">
+              <img src="https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
           </div>
           <div class="col-lg-6 px-5">
               <h2 class="text-white my-lg-5 mt-3 mb-5">AWARD WINNING CHEFS</h2>
@@ -170,7 +170,7 @@ export default {
     .s2
         position: relative
         background:
-            image: url(../assets/s2-1.jpeg)
+            image: url(https://images.pexels.com/photos/952373/pexels-photo-952373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
             size: cover
             position: center center
             attachment: fixed
@@ -211,7 +211,7 @@ export default {
         color: white
         position: relative
         background:
-            image: url('../assets/s4-1.jpg')
+            image: url(https://images.pexels.com/photos/8892/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
             size: cover
             position: center center
             attachment: fixed

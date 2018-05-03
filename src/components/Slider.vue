@@ -11,17 +11,17 @@
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <!-- ssdsd -->
-                    <img class="d-block w-100"  src="./../assets/1.jpg" alt="First slide"/>
+                    <img class="d-block w-100"  src="https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" alt="First slide"/>
                     <h2>Caviar Restaurant</h2>
                     <p>New summer menus available from 12th Sept.</p>
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100" src="./../assets/2.jpg" alt="Second slide"/>
+                    <img class="d-block w-100" src="https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="Second slide"/>
                     <h2>New Menu</h2>
                     <p>Coming up in march!</p>
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100"  src="./../assets/3.jpg" alt="Third slide"/>
+                    <img class="d-block w-100"  src="https://images.pexels.com/photos/34650/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="Third slide"/>
                     <h2>Salad Bar</h2>
                     <p>Coming up in march!</p>
                 </div>
